@@ -13,7 +13,8 @@
                     ],
                     "properties": {
                         "id": "CY0",
-                        "na": "Kýpros"
+                        "na": "Kýpros",
+                        "nuts0": "CY"
                     }
                 },
                 {
@@ -31,7 +32,8 @@
                     ],
                     "properties": {
                         "id": "CZ0",
-                        "na": "Česko"
+                        "na": "Česko",
+                        "nuts0": "CZ"
                     }
                 },
                 {
@@ -47,7 +49,8 @@
                     ],
                     "properties": {
                         "id": "DE1",
-                        "na": "Baden-Württemberg"
+                        "na": "Baden-Württemberg",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -64,7 +67,8 @@
                     ],
                     "properties": {
                         "id": "DE2",
-                        "na": "Bayern"
+                        "na": "Bayern",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -76,7 +80,8 @@
                     ],
                     "properties": {
                         "id": "DE3",
-                        "na": "Berlin"
+                        "na": "Berlin",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -95,7 +100,8 @@
                     ],
                     "properties": {
                         "id": "DE4",
-                        "na": "Brandenburg"
+                        "na": "Brandenburg",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -115,7 +121,8 @@
                     ],
                     "properties": {
                         "id": "DE5",
-                        "na": "Bremen"
+                        "na": "Bremen",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -135,7 +142,8 @@
                     ],
                     "properties": {
                         "id": "DE6",
-                        "na": "Hamburg"
+                        "na": "Hamburg",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -152,7 +160,8 @@
                     ],
                     "properties": {
                         "id": "DE7",
-                        "na": "Hessen"
+                        "na": "Hessen",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -168,7 +177,8 @@
                     ],
                     "properties": {
                         "id": "DE8",
-                        "na": "Mecklenburg-Vorpommern"
+                        "na": "Mecklenburg-Vorpommern",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -196,7 +206,8 @@
                     ],
                     "properties": {
                         "id": "DE9",
-                        "na": "Niedersachsen"
+                        "na": "Niedersachsen",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -213,7 +224,8 @@
                     ],
                     "properties": {
                         "id": "DEA",
-                        "na": "Nordrhein-Westfalen"
+                        "na": "Nordrhein-Westfalen",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -231,7 +243,8 @@
                     ],
                     "properties": {
                         "id": "DEB",
-                        "na": "Rheinland-Pfalz"
+                        "na": "Rheinland-Pfalz",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -245,7 +258,8 @@
                     ],
                     "properties": {
                         "id": "HU1",
-                        "na": "Közép-Magyarország"
+                        "na": "Közép-Magyarország",
+                        "nuts0": "HU"
                     }
                 },
                 {
@@ -262,7 +276,8 @@
                     ],
                     "properties": {
                         "id": "HU2",
-                        "na": "Dunántúl"
+                        "na": "Dunántúl",
+                        "nuts0": "HU"
                     }
                 },
                 {
@@ -281,7 +296,8 @@
                     ],
                     "properties": {
                         "id": "HU3",
-                        "na": "Alföld és Észak"
+                        "na": "Alföld és Észak",
+                        "nuts0": "HU"
                     }
                 },
                 {
@@ -297,7 +313,8 @@
                     ],
                     "properties": {
                         "id": "PL2",
-                        "na": "Makroregion południowy"
+                        "na": "Makroregion południowy",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -315,7 +332,8 @@
                     ],
                     "properties": {
                         "id": "PL4",
-                        "na": "Makroregion północno-zachodni"
+                        "na": "Makroregion północno-zachodni",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -331,7 +349,8 @@
                     ],
                     "properties": {
                         "id": "PL5",
-                        "na": "Makroregion południowo-zachodni"
+                        "na": "Makroregion południowo-zachodni",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -347,7 +366,8 @@
                     ],
                     "properties": {
                         "id": "PL6",
-                        "na": "Makroregion północny"
+                        "na": "Makroregion północny",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -364,7 +384,8 @@
                     ],
                     "properties": {
                         "id": "PL7",
-                        "na": "Makroregion centralny"
+                        "na": "Makroregion centralny",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -382,7 +403,8 @@
                     ],
                     "properties": {
                         "id": "PL8",
-                        "na": "Makroregion wschodni"
+                        "na": "Makroregion wschodni",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -396,7 +418,8 @@
                     ],
                     "properties": {
                         "id": "PL9",
-                        "na": "Makroregion województwo mazowieckie"
+                        "na": "Makroregion województwo mazowieckie",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -411,7 +434,8 @@
                     ],
                     "properties": {
                         "id": "PT1",
-                        "na": "Continente"
+                        "na": "Continente",
+                        "nuts0": "PT"
                     }
                 },
                 {
@@ -435,7 +459,8 @@
                     ],
                     "properties": {
                         "id": "PT2",
-                        "na": "Região Autónoma dos Açores"
+                        "na": "Região Autónoma dos Açores",
+                        "nuts0": "PT"
                     }
                 },
                 {
@@ -454,7 +479,8 @@
                     ],
                     "properties": {
                         "id": "PT3",
-                        "na": "Região Autónoma da Madeira"
+                        "na": "Região Autónoma da Madeira",
+                        "nuts0": "PT"
                     }
                 },
                 {
@@ -470,7 +496,8 @@
                     ],
                     "properties": {
                         "id": "RO1",
-                        "na": "Macroregiunea Unu"
+                        "na": "Macroregiunea Unu",
+                        "nuts0": "RO"
                     }
                 },
                 {
@@ -485,7 +512,8 @@
                     ],
                     "properties": {
                         "id": "RO2",
-                        "na": "Macroregiunea Doi"
+                        "na": "Macroregiunea Doi",
+                        "nuts0": "RO"
                     }
                 },
                 {
@@ -500,7 +528,8 @@
                     ],
                     "properties": {
                         "id": "RO3",
-                        "na": "Macroregiunea Trei"
+                        "na": "Macroregiunea Trei",
+                        "nuts0": "RO"
                     }
                 },
                 {
@@ -517,7 +546,8 @@
                     ],
                     "properties": {
                         "id": "RO4",
-                        "na": "Macroregiunea Patru"
+                        "na": "Macroregiunea Patru",
+                        "nuts0": "RO"
                     }
                 },
                 {
@@ -533,7 +563,8 @@
                     ],
                     "properties": {
                         "id": "RS1",
-                        "na": "Serbia - sever"
+                        "na": "Serbia - sever",
+                        "nuts0": "RS"
                     }
                 },
                 {
@@ -552,7 +583,8 @@
                     ],
                     "properties": {
                         "id": "RS2",
-                        "na": "Serbia - jug"
+                        "na": "Serbia - jug",
+                        "nuts0": "RS"
                     }
                 },
                 {
@@ -566,7 +598,8 @@
                     ],
                     "properties": {
                         "id": "SE1",
-                        "na": "Östra Sverige"
+                        "na": "Östra Sverige",
+                        "nuts0": "SE"
                     }
                 },
                 {
@@ -582,7 +615,8 @@
                     ],
                     "properties": {
                         "id": "AL0",
-                        "na": "Shqipëria"
+                        "na": "Shqipëria",
+                        "nuts0": "AL"
                     }
                 },
                 {
@@ -599,7 +633,8 @@
                     ],
                     "properties": {
                         "id": "AT1",
-                        "na": "Ostösterreich"
+                        "na": "Ostösterreich",
+                        "nuts0": "AT"
                     }
                 },
                 {
@@ -614,7 +649,8 @@
                     ],
                     "properties": {
                         "id": "AT2",
-                        "na": "Südösterreich"
+                        "na": "Südösterreich",
+                        "nuts0": "AT"
                     }
                 },
                 {
@@ -633,7 +669,8 @@
                     ],
                     "properties": {
                         "id": "AT3",
-                        "na": "Westösterreich"
+                        "na": "Westösterreich",
+                        "nuts0": "AT"
                     }
                 },
                 {
@@ -645,7 +682,8 @@
                     ],
                     "properties": {
                         "id": "BE1",
-                        "na": "Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest"
+                        "na": "Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest",
+                        "nuts0": "BE"
                     }
                 },
                 {
@@ -668,7 +706,8 @@
                     ],
                     "properties": {
                         "id": "BE2",
-                        "na": "Vlaams Gewest"
+                        "na": "Vlaams Gewest",
+                        "nuts0": "BE"
                     }
                 },
                 {
@@ -694,7 +733,8 @@
                     ],
                     "properties": {
                         "id": "BE3",
-                        "na": "Région wallonne"
+                        "na": "Région wallonne",
+                        "nuts0": "BE"
                     }
                 },
                 {
@@ -712,7 +752,8 @@
                     ],
                     "properties": {
                         "id": "BG3",
-                        "na": "Severna i Yugoiztochna Bulgaria"
+                        "na": "Severna i Yugoiztochna Bulgaria",
+                        "nuts0": "BG"
                     }
                 },
                 {
@@ -728,7 +769,8 @@
                     ],
                     "properties": {
                         "id": "BG4",
-                        "na": "Yugozapadna i Yuzhna tsentralna Bulgaria"
+                        "na": "Yugozapadna i Yuzhna tsentralna Bulgaria",
+                        "nuts0": "BG"
                     }
                 },
                 {
@@ -748,7 +790,8 @@
                     ],
                     "properties": {
                         "id": "CH0",
-                        "na": "Schweiz/Suisse/Svizzera"
+                        "na": "Schweiz/Suisse/Svizzera",
+                        "nuts0": "CH"
                     }
                 },
                 {
@@ -765,7 +808,8 @@
                     ],
                     "properties": {
                         "id": "SI0",
-                        "na": "Slovenija"
+                        "na": "Slovenija",
+                        "nuts0": "SI"
                     }
                 },
                 {
@@ -784,7 +828,8 @@
                     ],
                     "properties": {
                         "id": "SK0",
-                        "na": "Slovensko"
+                        "na": "Slovensko",
+                        "nuts0": "SK"
                     }
                 },
                 {
@@ -805,7 +850,8 @@
                     ],
                     "properties": {
                         "id": "TR1",
-                        "na": "İstanbul"
+                        "na": "İstanbul",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -836,7 +882,8 @@
                     ],
                     "properties": {
                         "id": "TR2",
-                        "na": "Batı Marmara"
+                        "na": "Batı Marmara",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -852,7 +899,8 @@
                     ],
                     "properties": {
                         "id": "TR3",
-                        "na": "Ege"
+                        "na": "Ege",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -870,7 +918,8 @@
                     ],
                     "properties": {
                         "id": "TR4",
-                        "na": "Doğu Marmara"
+                        "na": "Doğu Marmara",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -886,7 +935,8 @@
                     ],
                     "properties": {
                         "id": "TR5",
-                        "na": "Batı Anadolu"
+                        "na": "Batı Anadolu",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -903,7 +953,8 @@
                     ],
                     "properties": {
                         "id": "TR6",
-                        "na": "Akdeniz"
+                        "na": "Akdeniz",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -920,7 +971,8 @@
                     ],
                     "properties": {
                         "id": "TR7",
-                        "na": "Orta Anadolu"
+                        "na": "Orta Anadolu",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -936,7 +988,8 @@
                     ],
                     "properties": {
                         "id": "TR8",
-                        "na": "Batı Karadeniz"
+                        "na": "Batı Karadeniz",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -951,7 +1004,8 @@
                     ],
                     "properties": {
                         "id": "TR9",
-                        "na": "Doğu Karadeniz"
+                        "na": "Doğu Karadeniz",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -966,7 +1020,8 @@
                     ],
                     "properties": {
                         "id": "TRA",
-                        "na": "Kuzeydoğu Anadolu"
+                        "na": "Kuzeydoğu Anadolu",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -982,7 +1037,8 @@
                     ],
                     "properties": {
                         "id": "TRB",
-                        "na": "Ortadoğu Anadolu"
+                        "na": "Ortadoğu Anadolu",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -996,7 +1052,8 @@
                     ],
                     "properties": {
                         "id": "TRC",
-                        "na": "Güneydoğu Anadolu"
+                        "na": "Güneydoğu Anadolu",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -1011,7 +1068,8 @@
                     ],
                     "properties": {
                         "id": "UKC",
-                        "na": "North East (England)"
+                        "na": "North East (England)",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -1036,7 +1094,8 @@
                     ],
                     "properties": {
                         "id": "UKD",
-                        "na": "North West (England)"
+                        "na": "North West (England)",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -1051,7 +1110,8 @@
                     ],
                     "properties": {
                         "id": "UKE",
-                        "na": "Yorkshire and the Humber"
+                        "na": "Yorkshire and the Humber",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -1068,7 +1128,8 @@
                     ],
                     "properties": {
                         "id": "UKF",
-                        "na": "East Midlands (England)"
+                        "na": "East Midlands (England)",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -1082,7 +1143,8 @@
                     ],
                     "properties": {
                         "id": "DEC",
-                        "na": "Saarland"
+                        "na": "Saarland",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -1100,7 +1162,8 @@
                     ],
                     "properties": {
                         "id": "DED",
-                        "na": "Sachsen"
+                        "na": "Sachsen",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -1115,7 +1178,8 @@
                     ],
                     "properties": {
                         "id": "DEE",
-                        "na": "Sachsen-Anhalt"
+                        "na": "Sachsen-Anhalt",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -1140,7 +1204,8 @@
                     ],
                     "properties": {
                         "id": "DEF",
-                        "na": "Schleswig-Holstein"
+                        "na": "Schleswig-Holstein",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -1156,7 +1221,8 @@
                     ],
                     "properties": {
                         "id": "DEG",
-                        "na": "Thüringen"
+                        "na": "Thüringen",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -1186,7 +1252,8 @@
                     ],
                     "properties": {
                         "id": "DK0",
-                        "na": "Danmark"
+                        "na": "Danmark",
+                        "nuts0": "DK"
                     }
                 },
                 {
@@ -1206,7 +1273,8 @@
                     ],
                     "properties": {
                         "id": "EE0",
-                        "na": "Eesti"
+                        "na": "Eesti",
+                        "nuts0": "EE"
                     }
                 },
                 {
@@ -1234,7 +1302,8 @@
                     ],
                     "properties": {
                         "id": "EL3",
-                        "na": "Attiki"
+                        "na": "Attiki",
+                        "nuts0": "EL"
                     }
                 },
                 {
@@ -1288,7 +1357,8 @@
                     ],
                     "properties": {
                         "id": "EL4",
-                        "na": "Nisia Aigaiou, Kriti"
+                        "na": "Nisia Aigaiou, Kriti",
+                        "nuts0": "EL"
                     }
                 },
                 {
@@ -1318,7 +1388,8 @@
                     ],
                     "properties": {
                         "id": "EL5",
-                        "na": "Voreia Elláda"
+                        "na": "Voreia Elláda",
+                        "nuts0": "EL"
                     }
                 },
                 {
@@ -1378,7 +1449,8 @@
                     ],
                     "properties": {
                         "id": "EL6",
-                        "na": "Kentriki Elláda"
+                        "na": "Kentriki Elláda",
+                        "nuts0": "EL"
                     }
                 },
                 {
@@ -1393,7 +1465,8 @@
                     ],
                     "properties": {
                         "id": "ES1",
-                        "na": "Noroeste"
+                        "na": "Noroeste",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -1410,7 +1483,8 @@
                     ],
                     "properties": {
                         "id": "ES2",
-                        "na": "Noreste"
+                        "na": "Noreste",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -1422,7 +1496,8 @@
                     ],
                     "properties": {
                         "id": "ES3",
-                        "na": "Comunidad de Madrid"
+                        "na": "Comunidad de Madrid",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -1441,7 +1516,8 @@
                     ],
                     "properties": {
                         "id": "ES4",
-                        "na": "Centro (ES)"
+                        "na": "Centro (ES)",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -1476,7 +1552,8 @@
                     ],
                     "properties": {
                         "id": "ES5",
-                        "na": "Este"
+                        "na": "Este",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -1503,7 +1580,8 @@
                     ],
                     "properties": {
                         "id": "ES6",
-                        "na": "Sur"
+                        "na": "Sur",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -1524,7 +1602,8 @@
                     ],
                     "properties": {
                         "id": "FI1",
-                        "na": "Manner-Suomi"
+                        "na": "Manner-Suomi",
+                        "nuts0": "FI"
                     }
                 },
                 {
@@ -1543,7 +1622,8 @@
                     ],
                     "properties": {
                         "id": "FI2",
-                        "na": "Åland"
+                        "na": "Åland",
+                        "nuts0": "FI"
                     }
                 },
                 {
@@ -1559,7 +1639,8 @@
                     ],
                     "properties": {
                         "id": "FR1",
-                        "na": "Ile-de-France"
+                        "na": "Ile-de-France",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1576,7 +1657,8 @@
                     ],
                     "properties": {
                         "id": "FRB",
-                        "na": "Centre — Val de Loire"
+                        "na": "Centre — Val de Loire",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1592,7 +1674,8 @@
                     ],
                     "properties": {
                         "id": "FRC",
-                        "na": "Bourgogne-Franche-Comté"
+                        "na": "Bourgogne-Franche-Comté",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1609,7 +1692,8 @@
                     ],
                     "properties": {
                         "id": "FRD",
-                        "na": "Normandie"
+                        "na": "Normandie",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1628,7 +1712,8 @@
                     ],
                     "properties": {
                         "id": "FRE",
-                        "na": "Hauts-de-France"
+                        "na": "Hauts-de-France",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1648,7 +1733,8 @@
                     ],
                     "properties": {
                         "id": "FRF",
-                        "na": "Grand Est"
+                        "na": "Grand Est",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1664,7 +1750,8 @@
                     ],
                     "properties": {
                         "id": "FRG",
-                        "na": "Pays de la Loire"
+                        "na": "Pays de la Loire",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1678,7 +1765,8 @@
                     ],
                     "properties": {
                         "id": "FRH",
-                        "na": "Bretagne"
+                        "na": "Bretagne",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1695,7 +1783,8 @@
                     ],
                     "properties": {
                         "id": "FRI",
-                        "na": "Nouvelle-Aquitaine"
+                        "na": "Nouvelle-Aquitaine",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1714,7 +1803,8 @@
                     ],
                     "properties": {
                         "id": "FRJ",
-                        "na": "Occitanie"
+                        "na": "Occitanie",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1732,7 +1822,8 @@
                     ],
                     "properties": {
                         "id": "FRK",
-                        "na": "Auvergne-Rhône-Alpes"
+                        "na": "Auvergne-Rhône-Alpes",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1747,7 +1838,8 @@
                     ],
                     "properties": {
                         "id": "FRL",
-                        "na": "Provence-Alpes-Côte d’Azur"
+                        "na": "Provence-Alpes-Côte d’Azur",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1759,7 +1851,8 @@
                     ],
                     "properties": {
                         "id": "FRM",
-                        "na": "Corse"
+                        "na": "Corse",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -1794,7 +1887,8 @@
                     ],
                     "properties": {
                         "id": "HR0",
-                        "na": "Hrvatska"
+                        "na": "Hrvatska",
+                        "nuts0": "HR"
                     }
                 },
                 {
@@ -1807,7 +1901,8 @@
                     ],
                     "properties": {
                         "id": "IE0",
-                        "na": "Ireland"
+                        "na": "Ireland",
+                        "nuts0": "IE"
                     }
                 },
                 {
@@ -1819,7 +1914,8 @@
                     ],
                     "properties": {
                         "id": "IS0",
-                        "na": "Ísland"
+                        "na": "Ísland",
+                        "nuts0": "IS"
                     }
                 },
                 {
@@ -1836,7 +1932,8 @@
                     ],
                     "properties": {
                         "id": "ITC",
-                        "na": "Nord-Ovest"
+                        "na": "Nord-Ovest",
+                        "nuts0": "IT"
                     }
                 },
                 {
@@ -1849,7 +1946,8 @@
                     ],
                     "properties": {
                         "id": "ITF",
-                        "na": "Sud"
+                        "na": "Sud",
+                        "nuts0": "IT"
                     }
                 },
                 {
@@ -1873,7 +1971,8 @@
                     ],
                     "properties": {
                         "id": "ITG",
-                        "na": "Isole"
+                        "na": "Isole",
+                        "nuts0": "IT"
                     }
                 },
                 {
@@ -1893,7 +1992,8 @@
                     ],
                     "properties": {
                         "id": "ITH",
-                        "na": "Nord-Est"
+                        "na": "Nord-Est",
+                        "nuts0": "IT"
                     }
                 },
                 {
@@ -1914,7 +2014,8 @@
                     ],
                     "properties": {
                         "id": "ITI",
-                        "na": "Centro (IT)"
+                        "na": "Centro (IT)",
+                        "nuts0": "IT"
                     }
                 },
                 {
@@ -1927,7 +2028,8 @@
                     ],
                     "properties": {
                         "id": "LI0",
-                        "na": "Liechtenstein"
+                        "na": "Liechtenstein",
+                        "nuts0": "LI"
                     }
                 },
                 {
@@ -1942,7 +2044,8 @@
                     ],
                     "properties": {
                         "id": "LT0",
-                        "na": "Lietuva"
+                        "na": "Lietuva",
+                        "nuts0": "LT"
                     }
                 },
                 {
@@ -1957,7 +2060,8 @@
                     ],
                     "properties": {
                         "id": "LU0",
-                        "na": "Luxembourg"
+                        "na": "Luxembourg",
+                        "nuts0": "LU"
                     }
                 },
                 {
@@ -1972,7 +2076,8 @@
                     ],
                     "properties": {
                         "id": "LV0",
-                        "na": "Latvija"
+                        "na": "Latvija",
+                        "nuts0": "LV"
                     }
                 },
                 {
@@ -1989,7 +2094,8 @@
                     ],
                     "properties": {
                         "id": "ME0",
-                        "na": "Crna Gora"
+                        "na": "Crna Gora",
+                        "nuts0": "ME"
                     }
                 },
                 {
@@ -2005,7 +2111,8 @@
                     ],
                     "properties": {
                         "id": "MK0",
-                        "na": "Severna Makedonija"
+                        "na": "Severna Makedonija",
+                        "nuts0": "MK"
                     }
                 },
                 {
@@ -2024,7 +2131,8 @@
                     ],
                     "properties": {
                         "id": "MT0",
-                        "na": "Malta"
+                        "na": "Malta",
+                        "nuts0": "MT"
                     }
                 },
                 {
@@ -2039,7 +2147,8 @@
                     ],
                     "properties": {
                         "id": "NL1",
-                        "na": "Noord-Nederland"
+                        "na": "Noord-Nederland",
+                        "nuts0": "NL"
                     }
                 },
                 {
@@ -2055,7 +2164,8 @@
                     ],
                     "properties": {
                         "id": "NL2",
-                        "na": "Oost-Nederland"
+                        "na": "Oost-Nederland",
+                        "nuts0": "NL"
                     }
                 },
                 {
@@ -2079,7 +2189,8 @@
                     ],
                     "properties": {
                         "id": "NL3",
-                        "na": "West-Nederland"
+                        "na": "West-Nederland",
+                        "nuts0": "NL"
                     }
                 },
                 {
@@ -2095,7 +2206,8 @@
                     ],
                     "properties": {
                         "id": "NL4",
-                        "na": "Zuid-Nederland"
+                        "na": "Zuid-Nederland",
+                        "nuts0": "NL"
                     }
                 },
                 {
@@ -2177,7 +2289,8 @@
                     ],
                     "properties": {
                         "id": "NO0",
-                        "na": "Norge"
+                        "na": "Norge",
+                        "nuts0": "NO"
                     }
                 },
                 {
@@ -2199,7 +2312,8 @@
                     ],
                     "properties": {
                         "id": "SE2",
-                        "na": "Södra Sverige"
+                        "na": "Södra Sverige",
+                        "nuts0": "SE"
                     }
                 },
                 {
@@ -2215,7 +2329,8 @@
                     ],
                     "properties": {
                         "id": "SE3",
-                        "na": "Norra Sverige"
+                        "na": "Norra Sverige",
+                        "nuts0": "SE"
                     }
                 },
                 {
@@ -2231,7 +2346,8 @@
                     ],
                     "properties": {
                         "id": "UKG",
-                        "na": "West Midlands (England)"
+                        "na": "West Midlands (England)",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2253,7 +2369,8 @@
                     ],
                     "properties": {
                         "id": "UKH",
-                        "na": "East of England"
+                        "na": "East of England",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2271,7 +2388,8 @@
                     ],
                     "properties": {
                         "id": "UKI",
-                        "na": "London"
+                        "na": "London",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2295,7 +2413,8 @@
                     ],
                     "properties": {
                         "id": "UKJ",
-                        "na": "South East (England)"
+                        "na": "South East (England)",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2310,7 +2429,8 @@
                     ],
                     "properties": {
                         "id": "UKK",
-                        "na": "South West (England)"
+                        "na": "South West (England)",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2332,7 +2452,8 @@
                     ],
                     "properties": {
                         "id": "UKL",
-                        "na": "Wales"
+                        "na": "Wales",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2393,7 +2514,8 @@
                     ],
                     "properties": {
                         "id": "UKM",
-                        "na": "Scotland"
+                        "na": "Scotland",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -2406,7 +2528,8 @@
                     ],
                     "properties": {
                         "id": "UKN",
-                        "na": "Northern Ireland"
+                        "na": "Northern Ireland",
+                        "nuts0": "UK"
                     }
                 }
             ]
