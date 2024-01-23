@@ -31,7 +31,8 @@
                     ],
                     "properties": {
                         "id": "DK",
-                        "na": "Danmark"
+                        "na": "Danmark",
+                        "nuts0": "DK"
                     }
                 },
                 {
@@ -50,7 +51,8 @@
                     ],
                     "properties": {
                         "id": "RS",
-                        "na": "Serbia"
+                        "na": "Serbia",
+                        "nuts0": "RS"
                     }
                 },
                 {
@@ -70,7 +72,8 @@
                     ],
                     "properties": {
                         "id": "EE",
-                        "na": "Eesti"
+                        "na": "Eesti",
+                        "nuts0": "EE"
                     }
                 },
                 {
@@ -183,7 +186,8 @@
                     ],
                     "properties": {
                         "id": "EL",
-                        "na": "Elláda"
+                        "na": "Elláda",
+                        "nuts0": "EL"
                     }
                 },
                 {
@@ -227,7 +231,8 @@
                     ],
                     "properties": {
                         "id": "ES",
-                        "na": "España"
+                        "na": "España",
+                        "nuts0": "ES"
                     }
                 },
                 {
@@ -258,7 +263,8 @@
                     ],
                     "properties": {
                         "id": "FI",
-                        "na": "Suomi/Finland"
+                        "na": "Suomi/Finland",
+                        "nuts0": "FI"
                     }
                 },
                 {
@@ -286,7 +292,8 @@
                     ],
                     "properties": {
                         "id": "FR",
-                        "na": "France"
+                        "na": "France",
+                        "nuts0": "FR"
                     }
                 },
                 {
@@ -320,7 +327,8 @@
                     ],
                     "properties": {
                         "id": "HR",
-                        "na": "Hrvatska"
+                        "na": "Hrvatska",
+                        "nuts0": "HR"
                     }
                 },
                 {
@@ -338,7 +346,8 @@
                     ],
                     "properties": {
                         "id": "HU",
-                        "na": "Magyarország"
+                        "na": "Magyarország",
+                        "nuts0": "HU"
                     }
                 },
                 {
@@ -351,7 +360,8 @@
                     ],
                     "properties": {
                         "id": "IE",
-                        "na": "Éire/Ireland"
+                        "na": "Éire/Ireland",
+                        "nuts0": "IE"
                     }
                 },
                 {
@@ -363,7 +373,8 @@
                     ],
                     "properties": {
                         "id": "IS",
-                        "na": "Ísland"
+                        "na": "Ísland",
+                        "nuts0": "IS"
                     }
                 },
                 {
@@ -402,7 +413,8 @@
                     ],
                     "properties": {
                         "id": "IT",
-                        "na": "Italia"
+                        "na": "Italia",
+                        "nuts0": "IT"
                     }
                 },
                 {
@@ -415,7 +427,8 @@
                     ],
                     "properties": {
                         "id": "LI",
-                        "na": "Liechtenstein"
+                        "na": "Liechtenstein",
+                        "nuts0": "LI"
                     }
                 },
                 {
@@ -430,7 +443,8 @@
                     ],
                     "properties": {
                         "id": "LT",
-                        "na": "Lietuva"
+                        "na": "Lietuva",
+                        "nuts0": "LT"
                     }
                 },
                 {
@@ -444,7 +458,8 @@
                     ],
                     "properties": {
                         "id": "LU",
-                        "na": "Luxembourg"
+                        "na": "Luxembourg",
+                        "nuts0": "LU"
                     }
                 },
                 {
@@ -459,7 +474,8 @@
                     ],
                     "properties": {
                         "id": "LV",
-                        "na": "Latvija"
+                        "na": "Latvija",
+                        "nuts0": "LV"
                     }
                 },
                 {
@@ -476,7 +492,8 @@
                     ],
                     "properties": {
                         "id": "ME",
-                        "na": "Crna Gora"
+                        "na": "Crna Gora",
+                        "nuts0": "ME"
                     }
                 },
                 {
@@ -492,7 +509,8 @@
                     ],
                     "properties": {
                         "id": "MK",
-                        "na": "Severna Makedonija"
+                        "na": "Severna Makedonija",
+                        "nuts0": "MK"
                     }
                 },
                 {
@@ -511,7 +529,8 @@
                     ],
                     "properties": {
                         "id": "MT",
-                        "na": "Malta"
+                        "na": "Malta",
+                        "nuts0": "MT"
                     }
                 },
                 {
@@ -532,7 +551,8 @@
                     ],
                     "properties": {
                         "id": "SE",
-                        "na": "Sverige"
+                        "na": "Sverige",
+                        "nuts0": "SE"
                     }
                 },
                 {
@@ -548,7 +568,8 @@
                     ],
                     "properties": {
                         "id": "SI",
-                        "na": "Slovenija"
+                        "na": "Slovenija",
+                        "nuts0": "SI"
                     }
                 },
                 {
@@ -564,7 +585,8 @@
                     ],
                     "properties": {
                         "id": "SK",
-                        "na": "Slovensko"
+                        "na": "Slovensko",
+                        "nuts0": "SK"
                     }
                 },
                 {
@@ -590,7 +612,8 @@
                     ],
                     "properties": {
                         "id": "TR",
-                        "na": "Türkiye"
+                        "na": "Türkiye",
+                        "nuts0": "TR"
                     }
                 },
                 {
@@ -678,7 +701,8 @@
                     ],
                     "properties": {
                         "id": "UK",
-                        "na": "United Kingdom"
+                        "na": "United Kingdom",
+                        "nuts0": "UK"
                     }
                 },
                 {
@@ -700,7 +724,8 @@
                     ],
                     "properties": {
                         "id": "NL",
-                        "na": "Nederland"
+                        "na": "Nederland",
+                        "nuts0": "NL"
                     }
                 },
                 {
@@ -717,7 +742,8 @@
                     ],
                     "properties": {
                         "id": "PL",
-                        "na": "Polska"
+                        "na": "Polska",
+                        "nuts0": "PL"
                     }
                 },
                 {
@@ -757,7 +783,8 @@
                     ],
                     "properties": {
                         "id": "PT",
-                        "na": "Portugal"
+                        "na": "Portugal",
+                        "nuts0": "PT"
                     }
                 },
                 {
@@ -772,7 +799,8 @@
                     ],
                     "properties": {
                         "id": "RO",
-                        "na": "România"
+                        "na": "România",
+                        "nuts0": "RO"
                     }
                 },
                 {
@@ -788,7 +816,8 @@
                     ],
                     "properties": {
                         "id": "AL",
-                        "na": "Shqipëria"
+                        "na": "Shqipëria",
+                        "nuts0": "AL"
                     }
                 },
                 {
@@ -808,7 +837,8 @@
                     ],
                     "properties": {
                         "id": "AT",
-                        "na": "Österreich"
+                        "na": "Österreich",
+                        "nuts0": "AT"
                     }
                 },
                 {
@@ -826,7 +856,8 @@
                     ],
                     "properties": {
                         "id": "BE",
-                        "na": "Belgique/België"
+                        "na": "Belgique/België",
+                        "nuts0": "BE"
                     }
                 },
                 {
@@ -843,7 +874,8 @@
                     ],
                     "properties": {
                         "id": "BG",
-                        "na": "Bulgaria"
+                        "na": "Bulgaria",
+                        "nuts0": "BG"
                     }
                 },
                 {
@@ -860,7 +892,8 @@
                     ],
                     "properties": {
                         "id": "CH",
-                        "na": "Schweiz/Suisse/Svizzera"
+                        "na": "Schweiz/Suisse/Svizzera",
+                        "nuts0": "CH"
                     }
                 },
                 {
@@ -872,7 +905,8 @@
                     ],
                     "properties": {
                         "id": "CY",
-                        "na": "Kýpros"
+                        "na": "Kýpros",
+                        "nuts0": "CY"
                     }
                 },
                 {
@@ -887,7 +921,8 @@
                     ],
                     "properties": {
                         "id": "CZ",
-                        "na": "Česko"
+                        "na": "Česko",
+                        "nuts0": "CZ"
                     }
                 },
                 {
@@ -921,7 +956,8 @@
                     ],
                     "properties": {
                         "id": "DE",
-                        "na": "Deutschland"
+                        "na": "Deutschland",
+                        "nuts0": "DE"
                     }
                 },
                 {
@@ -1002,7 +1038,8 @@
                     ],
                     "properties": {
                         "id": "NO",
-                        "na": "Norge"
+                        "na": "Norge",
+                        "nuts0": "NO"
                     }
                 }
             ]
